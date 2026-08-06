@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "W_a",
+			Author: "World Ablaze",
+			BackgroundName: "WA",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 14137,
+			MapScale: 5,
+			WorldMap: true,
+			Scenario: "wa",
+			Wiki: "World Ablaze original map"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

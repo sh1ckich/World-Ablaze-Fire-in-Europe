@@ -1,0 +1,214 @@
+{
+	wonders:
+	[
+		{
+			Name: "Colossus of Rhodes",
+			x: 3285,
+			y: 1535,
+			SinceYear: -305,
+			UntilYear: 100000,
+			Image: "Colossus.png",
+			Wiki: "Colossus_of_Rhodes"
+		},
+		{
+			Name: "Великая китайская стена",
+			x: 4733,
+			y: 1440,
+			SinceYear: 100,
+			UntilYear: 100000,
+			Image: "greatchinval.png",
+			Wiki: ""
+		},
+		{
+			Name: "Pyramids",
+			x: 3327,
+			y: 1656,
+			SinceYear: -2630,
+			UntilYear: 100000,
+			Image: "piramid.png",
+			Wiki: "Egyptian_pyramids"
+		},
+		{
+			Name: "Stonehenge",
+			x: 2783,
+			y: 1200,
+			SinceYear: -3100,
+			UntilYear: 100000,
+			Image: "stonehenge.png",
+			Wiki: "Stonehenge"
+		},
+		{
+			Name: "Parthenon",
+			x: 3216,
+			y: 1501,
+			SinceYear: -447,
+			UntilYear: 100000,
+			Image: "Parthenon.png",
+			Wiki: "Parthenon"
+		},
+		{
+			Name: "Pharos of Alexandria",
+			x: 3308,
+			y: 1647,
+			SinceYear: 284,
+			UntilYear: 100000,
+			Image: "pharos.png",
+			Wiki: "Lighthouse_of_Alexandria"
+		},
+		{
+			Name: "Anэtkabir",
+			x: 3350,
+			y: 1466,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "anitkabir.png",
+			Wiki: "Anitkabir"
+		},
+		{
+			Name: "Штаб-квартира ООН",
+			x: 5213,
+			y: 2952,
+			SinceYear: 2028,
+			UntilYear: 100000,
+			Image: "un.png",
+			Wiki: "Наиболее важные решения организации принимаются именно в Мельбурне, так как здесь проходит большинство заседаний Генеральной Ассамблеи и Совета Безопасности ООН. "
+		},
+		{
+			Name: "Центр миротворческих операций ООН",
+			x: 2038,
+			y: 2657,
+			SinceYear: 2029,
+			UntilYear: 2033,
+			Image: "cpo.png",
+			Wiki: " "
+		},
+		{
+			Name: "Статуя Христа-Искупителя",
+			x: 2102,
+			y: 2639,
+			SinceYear: 1900,
+			UntilYear: 2300,
+			Image: "christ.png",
+			Wiki: " "
+		},
+		{
+			Name: "Рюгён",
+			x: 4904,
+			y: 1487,
+			SinceYear: 2012,
+			UntilYear: 2300,
+			Image: "rugen.png",
+			Wiki: " "
+		},
+		{
+			Name: "Монумент основания ТПК",
+			x: 4900,
+			y: 1486,
+			SinceYear: 1970,
+			UntilYear: 2300,
+			Image: "otpk.png",
+			Wiki: " "
+		},
+		{
+			Name: "Храм идеи Чучхе",
+			x: 4927,
+			y: 1515,
+			SinceYear: 2029,
+			UntilYear: 2300,
+			Image: "chu.png",
+			Wiki: " "
+		},
+		{
+			Name: "Хангугтонгсингонгса",
+			x: 4922,
+			y: 1513,
+			SinceYear: 2018,
+			UntilYear: 2300,
+			Image: "sams.png",
+			Wiki: " "
+		},
+		{
+			Name: "АЭС Кори",
+			x: 4962,
+			y: 1560,
+			SinceYear: 2000,
+			UntilYear: 2300,
+			Image: "kory.png",
+			Wiki: " "
+		},
+		{
+			Name: "Арка воссоединения",
+			x: 4923,
+			y: 1518,
+			SinceYear: 2025,
+			UntilYear: 2300,
+			Image: "ark.png",
+			Wiki: " "
+		},
+		{
+			Name: "Арарат",
+			x: 3546,
+			y: 1462,
+			SinceYear: -3000,
+			UntilYear: 5000,
+			Image: "ararat.png",
+			Wiki: " "
+		},
+		{
+			Name: "Руины Кремля",
+			x: 3439,
+			y: 1076,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "kremlin.png",
+			Wiki: "kremlin"
+		},
+		{
+			Name: "ММК",
+			x: 3795,
+			y: 1135,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "mmk.png",
+			Wiki: "mmk"
+		},
+		{
+			Name: "Маска скорби",
+			x: 5316,
+			y: 980,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "skorb.png",
+			Wiki: "skorb"
+		},
+		{
+			Name: "Магаданский Порт",
+			x: 5311,
+			y: 978,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "mgd.png",
+			Wiki: "mgd"
+		},
+		{
+			Name: "Катакомбы Азовстали",
+			x: 3440,
+			y: 1300,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "azovstal.png",
+			Wiki: "azovstal"
+		},
+		{
+			Name: "Запорожская АЭС",
+			x: 3391,
+			y: 1296,
+			SinceYear: 1953,
+			UntilYear: 100000,
+			Image: "zaes.png",
+			Wiki: "zaes"
+		},
+	],
+	
+	name: Earth
+}

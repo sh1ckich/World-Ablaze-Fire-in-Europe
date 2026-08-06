@@ -1,0 +1,7 @@
+IMAGE_PATH=editor_data/WA_M.png
+MAP_DATA_PATH=editor_data/Provinces/MAP_POINTS.txt
+WIDTH=1920
+HEIGHT=1080
+MAXIMUM_SIZE=true
+DRAW_POINTS=true
+DRAW_ARMY=false

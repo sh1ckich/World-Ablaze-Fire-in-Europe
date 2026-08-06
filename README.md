@@ -1,1 +1,3 @@
-# World-Ablaze-Fire-in-Europe
+Age of History II: World Ablaze
+
+Рабочий репозиторий для ивентоделов
